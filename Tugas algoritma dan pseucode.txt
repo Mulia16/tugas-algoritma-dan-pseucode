@@ -49,3 +49,4 @@ WHILE "minValue" <= "n"
 				DISPLAY "Buzz"
 			ELSE 
 				DISPLAY "minValue"
+	ADD "minValue" by 1
