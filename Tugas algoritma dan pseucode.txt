@@ -28,7 +28,7 @@
 ##PROJECT 4
 
 STORE "N" with any value
-STORE "COUNTER" with 0
+STORE "COUNTER" with 1
 WHILE "COUNTER" <= "N"
 	 DISPLAY "COUNTER"
 	 ADD "COUNTER" by 1
